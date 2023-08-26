@@ -2,7 +2,7 @@
 version: "2.1"
 services:
   dokuwiki:
-    image: dokuwiki:templum
+    image: dokuwiki:templum-1
     container_name: dokuwiki
     environment:
       - PUID=1000

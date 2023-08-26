@@ -5,20 +5,22 @@ COPY local.php /app/www/public/conf/local.php
 COPY users.auth.php /app/www/public/conf/users.auth.php
 COPY acl.auth.php /app/www/public/conf/acl.auth.php
 
+WORKDIR /app/www/public/data/gitrepo
 RUN \
   apk add git &&\
+  git config --global user.name "8BitSensei" &&\
+  git config --global user.email "ctkevlahan@gmail.com" &&\
+  git config --global init.defaultBranch main &&\
+  git config --global --add safe.directory /app/www/public/data/gitepo &&\
+  git init &&\
+  git remote add origin https://${GH_TOKEN}@github.com/8BitSensei/dokuwiki-templum &&\
+  git fetch --all &&\
+  git reset --hard origin/main
+
+WORKDIR /app/www/public/lib/plugins
+RUN \
   mkdir -p /app/www/public/data/gitrepo/wiki/ &&\
   curl -LO https://github.com/woolfg/dokuwiki-plugin-gitbacked/releases/download/v2023-05-07/dokuwiki-plugin-gitbacked-2023-05-07.zip &&\
   mkdir -p /app/www/public/lib/plugins/gitbacked &&\
   unzip dokuwiki-plugin-gitbacked-2023-05-07.zip -d /app/www/public/lib/plugins/gitbacked
 
-WORKDIR /app/www/public/data/gitrepo
-RUN \
-    git config --global user.name "8BitSensei" &&\
-    git config --global user.email "ctkevlahan@gmail.com" &&\
-    git config --global init.defaultBranch main &&\
-    git config --global --add safe.directory /app/www/public/data/gitepo &&\
-    git init &&\
-    git remote add origin https://${GH_TOKEN}@github.com/8BitSensei/dokuwiki-templum &&\
-    git fetch --all &&\
-    git reset --hard origin/main
