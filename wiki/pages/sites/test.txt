@@ -12,7 +12,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <WRAP tablewidth 100%>
 ^           Table with alignment           ^^
 | **Location** | {{$fact.location}} |
-| **Latitude**-Longitude | {{$fact.lat-long}} |
+| **Co-ordinates** | {{$fact.lat-long}} |
 | **Start** | {{$fact.start}} |
 | **End** | {{$fact.end}} |
 </WRAP>
