@@ -8,7 +8,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <olmap id="olMapOne" width="250px" height="250px" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="" summary="" >
 </olmap>
 <WRAP tablewidth 100%>
-^           Information  ^^
+^^           Information  ^^
 | **Location** | here |
 | **Coordinates** | there | 
 | **Start** | then | 
