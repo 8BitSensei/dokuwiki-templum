@@ -5,7 +5,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 </WRAP>
 <WRAP 35% column>
 <WRAP box centeralign right :en>
-<olmap id="olMapOne" width="250px" height="250px" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="" summary="" >
+<olmap id="olMapOne" width="250px" height="250px" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="">
 </olmap>
 
 <WRAP tablewidth 100%>
