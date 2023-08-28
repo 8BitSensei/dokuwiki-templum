@@ -9,10 +9,10 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 </olmap>
 <WRAP tablewidth 100%>
 ^           Information           ^^^
-| **Location** | |
-| **Coordinates** | |
-| **Start** | |
-| **End** | |
+| **Location** | here |
+| **Coordinates** | there |
+| **Start** | then |
+| **End** | then |
 </WRAP>
 </WRAP>
 </WRAP>
