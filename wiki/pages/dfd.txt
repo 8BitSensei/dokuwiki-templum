@@ -7,7 +7,6 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <WRAP box>
 <olmap id="olMapOne" width="250px" height="250px" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="" summary="" >
 </olmap>
-{{geotag>lat=52.132633, lon=5.291266, alt=9, placename:Sint-Oedenrode, region:NL-NB, country:NL}}
 ^ Heading 3    | test |
 ^ Heading 4    | no colspan this time |
 ^ Heading 5    | Row 2 Col 2          |
