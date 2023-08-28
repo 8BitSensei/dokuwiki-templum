@@ -56,3 +56,8 @@ RUN unzip openlayersmap.zip -d /app/www/public/lib/plugins/openlayersmap
 RUN curl -L -o wrap.zip https://codeload.github.com/selfthinker/dokuwiki_plugin_wrap/zip/refs/tags/stable
 RUN mkdir -p /app/www/public/lib/plugins/wrap
 RUN unzip wrap.zip -d /app/www/public/lib/plugins/wrap
+
+# Struct plugin
+RUN curl -L -o struct.zip https://codeload.github.com/cosmocode/dokuwiki-plugin-struct/legacy.zip/refs/heads/master
+RUN mkdir -p /app/www/public/lib/plugins/struct
+RUN unzip wrap.zip -d /app/www/public/lib/plugins/struct
