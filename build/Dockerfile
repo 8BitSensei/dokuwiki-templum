@@ -19,6 +19,12 @@ RUN git remote add origin https://${GH_TOKEN}@github.com/8BitSensei/dokuwiki-tem
 RUN git fetch --all 
 RUN git reset --hard origin/main
 
+# Bootstrap3 theme
+WORKDIR /app/www/public/lib/tpl
+RUN curl -L -o bootstrap3.zip https://codeload.github.com/giterlizzi/dokuwiki-template-bootstrap3/legacy.zip/refs/heads/master
+RUN mkdir -p /app/www/public/lib/tpl/bootstrap3
+RUN unzip bootstrap3.zip -d /app/www/public/lib/tpl/bootstrap3
+
 # Gitbacked plugin
 WORKDIR /app/www/public/lib/plugins
 RUN curl -L -o gitbacked.zip https://github.com/woolfg/dokuwiki-plugin-gitbacked/releases/download/v2023-05-07/dokuwiki-plugin-gitbacked-2023-05-07.zip
