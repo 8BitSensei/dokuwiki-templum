@@ -11,10 +11,10 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 <WRAP tablewidth 100%>
 ^           Table with alignment           ^^
-| **Location** | {{$fact.location}} |
-| **Co-ordinates** | {{$fact.lat-long}} |
-| **Start** | {{$fact.start}} |
-| **End** | {{$fact.end}} |
+|**Location** |{{$fact.location}} |
+|**Co-ordinates** |{{$fact.lat-long}} |
+|**Start** |{{$fact.start}} |
+|**End** |{{$fact.end}} |
 </WRAP>
 </WRAP>
 </WRAP>
