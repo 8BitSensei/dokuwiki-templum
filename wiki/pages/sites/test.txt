@@ -7,16 +7,12 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <WRAP box centeralign right :en>
 <olmap id="olMapOne" width="400px" height="350px" lat="50.0" lon="5.1" zoom="12" controls="0" baselyr="OpenStreetMap">
 </olmap>
+
+<WRAP tablewidth 100%>
 ---- struct table----
 schema: fact
 cols: *
 ----
-<WRAP tablewidth 100%>
-^           Information  ^^
-| **Location** | here |
-| **Coordinates** | there | 
-| **Start** | then | 
-| **End** | then |
 </WRAP>
 </WRAP>
 </WRAP>
