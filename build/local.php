@@ -13,5 +13,7 @@ $conf['datadir'] = '/app/www/public/data/gitrepo/wiki/pages';
 $conf['mediadir'] = '/app/www/public/data/gitrepo/wiki/media';
 $conf['plugin']['authldap']['attributes'] = array();
 $conf['plugin']['gitbacked']['pushAfterCommit'] = 1;
+$conf['plugin']['openlayersmap']['enableGoogle'] = 1;
+$conf['plugin']['publish']['hide_approved_banner'] = 1;
 $conf['plugin']['gitbacked']['repoPath'] = '/app/www/public/data/gitrepo';
 $conf['plugin']['gitbacked']['repoWorkDir'] = '/app/www/public/data/gitrepo';
