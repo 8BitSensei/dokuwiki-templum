@@ -1,5 +1,5 @@
 ====== Temples of Britain & Ireland ======
-
+{{geotag>lat:a, lon:7.521, alt: , placename: , country: , region: }}
 Welcome to Templum, an open-source project to provide a website to explore a public dataset of Ritual Sites in Britain & Ireland. If you see a mistake or would like to add data or functionality, please go to ‘Contribute’ to see how you can help further the project.
 
 <olmap id="olMapOne" width="550px" height="450px" lat="50.0" lon="5.1" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile=":sitemap.kml" geojsonfile="" summary="" >
