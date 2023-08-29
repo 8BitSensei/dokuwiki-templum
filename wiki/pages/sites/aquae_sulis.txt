@@ -1,0 +1,48 @@
+====== Aquae Sulis ======
+<WRAP>
+<WRAP 605 column>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non quam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+</WRAP>
+<WRAP 35% column>
+<WRAP box centeralign right :en>
+<olmap id="olMapOne" width="250px" height="250px" lat="52.0" lon="5.1" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="">
+51.381808583925626,-2.360005238066774,60,.8,marker-green.png
+</olmap>
+
+<WRAP tablewidth 100%>
+^           Information  ^^
+| **Location** | England, Somerset, Bath, Abbey Churchyard |
+| **Coordinates** | 51.381808583925626, -2.360005238066774 | 
+| **Start** | late 1st BCE | 
+| **End** | early 5th CE |
+</WRAP>
+</WRAP>
+</WRAP>
+</WRAP>
+----
+===== Bibliography =====
+  - "Davenport, P., (2021), Roman Bath: A New History and Archaeology of Aquae Sulis, The History Press",
+  - "McBurney, J., (2016), The Cult of Sulis-Minerva at Bath: The Religious Ritual of the Patron Goddess at Bath., Victoria University of Wellington, available at: https://www.exams.cambridgescp.com/files/l2romanbritain.pdf",
+  - "Southern, P., (2015), The Story of Roman Bath, Amberley Publishing",
+  - "Cleary, S., (2015), The 'end of the gods' in late Roman Britain, Gallia",
+  - "Martyn, Blick, Brindle, et al, (2015), Bath, Arlington Court (Bath and Northeast Somerset), available at: https://doi.org/10.5284/1030449",
+  - "Martyn, Blick, Brindle, et al, (2015), Bath, The Temple of Sulis Minerva (precinct), available at: https://doi.org/10.5284/1030449",
+  - "Martyn, Blick, Brindle, et al, (2015), Bath, Hot Bath Spring (Bath and Northeast Somerset), available at: https://doi.org/10.5284/1030449",
+  - "Cunliffe, B., (2009), Roman Bath Discovered, The History Press",
+  - "Gerrard, J., (2007), The Temple of Sulis Minerva, Bath and the end of Roman Britain, The Antiquaries Journal, 87",
+  - "Davenport, (1999), Archaeology in Bath excavations 1984-1989, Oxford Archaeology Monogaph, 3",
+  - "Cunliffe, B., Tomlin, R., Walker, D., Allason-Jones, L., (1988), The Temple of Sulis Minerva at Bath: Vol.2 (II): The finds from the sacred spring",
+  - "Cunliffe, B., Davenport, P., (1985), The Temple Of Sulis Minerva At Bath: Volume 1 (I): The Site, Oxford University School of Archaeology",
+  - "Stewart, R., (1981), Waters of the Gap: Mythology of Aquae Sulis, Humanities Press Intl",
+  - "Cunliffe, Wedlake, (1979), Excavation in Bath, 1950-1975 Bristol",
+  - "Lewis, (1966), Temples in Roman Britain",
+  - "Richmond, I., Toynbee, J., (1955), The Temple of Sulis-Minerva at Bath, Journal of Roman Studies, 45, pg. 97 ff",
+  - "Taylor, M., Collingwood, R., (1921), Roman Britain in 1921 and 1922, Journal of Roman Studies, 11, pg. 233",
+  - "Ward, J., (1911), Roman Era in Britain, Methuen & Co. Ltd",
+  - "Downes, R., (1909), The Goddess Sul and Heathen Rites near Bath",
+  - "Toynbee, J., (1909), Art in Roman Britain, 25",
+  - "(1906), Somerset, in Victoria County History, 1, pg. 229 ff",
+  - "(1903), Ephemis Epigraphica, Ephemis Epigraphica, 9, pg. 994-5",
+  - "Irvine, J., (1873), Notes on the Remains of the Roman Temple and Entrance Hall to Roman Baths Found at Bath in 1790, Journal of the British Archaeological Association, 29, pg. 379",
+  - "(1873), Corpus Inscriptionum Latinarum, in Corpus Inscriptionum Latinarum, 3, pg. 36-47, 53, 1351",
+  - "Lysons, S., (1808), Reliquiae Britannico-Romanae, 1","Bart, H., (1792), Account of Antiquities discovered at Bath 1790. By Sir Henry Charles Englefield, Archaeologia, 10, pg. 325"
