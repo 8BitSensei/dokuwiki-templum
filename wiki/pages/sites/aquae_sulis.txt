@@ -47,9 +47,9 @@ An early Roman period temple set around a natural spring with an adjoining bath 
 
 <WRAP tablewidth 100%>
 ^           Information  ^^
-| **Location** | England, Somerset, Bath, Abbey Churchyard |
-| **Start** | late 1st BCE | 
-| **End** | early 5th CE |
+|**Location** |England, Somerset, Bath, Abbey Churchyard |
+|**Start** |late 1st BCE | 
+|**End** |early 5th CE |
 </WRAP>
 </WRAP>
 </WRAP>
