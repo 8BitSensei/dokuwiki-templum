@@ -3,7 +3,7 @@
 <WRAP 60% column>
 An early Roman period temple set around a natural spring with an adjoining bath complex. There is some evidence to suggest that the spring had some ritual significance prior to the Roman structure, it has also been shown that the ritual use of the site continued strongly into the 4th Century with continued deposition of coins, defixiones, and modifications to the temple itself. Aquae Sulis is unique in that it is one of the few sites we have a contempory reference to in Solinus, De Mirabilibus Mundi, Capitula XXIIII.
 
-{{ :sites:site_0.jpg?400|{{ :sites:site_0.jpg?400|}}
+
 
 ===== Dating =====
 An early Roman period temple set around a natural spring with an adjoining bath complex. There is some evidence to suggest that the spring had some ritual significance prior to the Roman structure, it has also been shown that the ritual use of the site continued strongly into the 4th Century with continued deposition of coins, defixiones, and modifications to the temple itself. Aquae Sulis is unique in that it is one of the few sites we have a contempory reference to in Solinus, De Mirabilibus Mundi, Capitula XXIIII.
@@ -42,6 +42,7 @@ An early Roman period temple set around a natural spring with an adjoining bath 
 </WRAP>
 <WRAP 35% column>
 <WRAP box centeralign right :en>
+{{ :sites:site_0.jpg?400|{{ :sites:site_0.jpg?400|}}
 <olmap id="olMapOne" width="350px" height="350px" lat="51.381808583925626" lon="-2.360005238066774" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="">
 51.381808583925626,-2.360005238066774,60,.8,marker-green.png, Aquae Sulis
 </olmap>
