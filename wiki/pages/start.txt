@@ -1,3 +1,13 @@
 ====== Temples of Britain & Ireland ======
 
 Welcome to Templum, an open-source project to provide a website to explore a public dataset of Ritual Sites in Britain & Ireland. If you see a mistake or would like to add data or functionality, please go to ‘Contribute’ to see how you can help further the project.
+
+<olmap id="olMapOne" width="550px" height="450px" lat="50.0" lon="5.1" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="" summary="" >
+~~ Plugin olmap help.
+~~ Required in the above tag are values for: id (unique on this page), width, heigth.
+~~ Also you will want to enter zoomlevel and lat, lon values that make sense for where you~~ want the map to start.
+
+~~ Below is an example of a POI, you can add as many as you want. ~~ More examples: https://dokuwiki.org/plugin:openlayersmap 
+50.0117,5.1287,-90,.8,marker-green.png,Pont de Barbouillons; Daverdisse \\ external link: 
+                        [[https://test.com|test.com]] \\ internal link: [[::start]]\\ **DW Formatting** 
+</olmap>
