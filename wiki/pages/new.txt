@@ -1,2 +1,4 @@
-{{fields>FIELD_NAME=FIELD_VALUE}}
-{{fields>FIELD_NAME}}
+{{fields>LAT=52.2345}}
+{{fields>LON=7.521}}
+
+{{geotag>lat:{{fields>LAT}}, lon:{{fields>LON}}, alt: , placename: , country: , region: }}
