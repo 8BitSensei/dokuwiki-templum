@@ -5,23 +5,6 @@ An early Roman period temple set around a natural spring with an adjoining bath 
 
 {{ :sites:site_0.jpg?400|{{ :sites:site_0.jpg?400|}}
 
-</WRAP>
-<WRAP 35% column>
-<WRAP box centeralign right :en>
-<olmap id="olMapOne" width="350px" height="350px" lat="51.381808583925626" lon="-2.360005238066774" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="">
-51.381808583925626,-2.360005238066774,60,.8,marker-green.png, Aquae Sulis
-</olmap>
-
-<WRAP tablewidth 100%>
-^           Information  ^^
-| **Location** | England, Somerset, Bath, Abbey Churchyard |
-| **Start** | late 1st BCE | 
-| **End** | early 5th CE |
-</WRAP>
-</WRAP>
-</WRAP>
-</WRAP>
-<WRAP pagebreak></WRAP>
 ===== Dating =====
 An early Roman period temple set around a natural spring with an adjoining bath complex. There is some evidence to suggest that the spring had some ritual significance prior to the Roman structure, it has also been shown that the ritual use of the site continued strongly into the 4th Century with continued deposition of coins, defixiones, and modifications to the temple itself. Aquae Sulis is unique in that it is one of the few sites we have a contempory reference to in Solinus, De Mirabilibus Mundi, Capitula XXIIII.
 
@@ -55,5 +38,22 @@ An early Roman period temple set around a natural spring with an adjoining bath 
   - "(1873), Corpus Inscriptionum Latinarum, in Corpus Inscriptionum Latinarum, 3, pg. 36-47, 53, 1351",
   - "Lysons, S., (1808), Reliquiae Britannico-Romanae, 1",
   - "Bart, H., (1792), Account of Antiquities discovered at Bath 1790. By Sir Henry Charles Englefield, Archaeologia, 10, pg. 325"
+
+</WRAP>
+<WRAP 35% column>
+<WRAP box centeralign right :en>
+<olmap id="olMapOne" width="350px" height="350px" lat="51.381808583925626" lon="-2.360005238066774" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="">
+51.381808583925626,-2.360005238066774,60,.8,marker-green.png, Aquae Sulis
+</olmap>
+
+<WRAP tablewidth 100%>
+^           Information  ^^
+| **Location** | England, Somerset, Bath, Abbey Churchyard |
+| **Start** | late 1st BCE | 
+| **End** | early 5th CE |
+</WRAP>
+</WRAP>
+</WRAP>
+</WRAP>
 
 {{geotag>lat:51.381808583925626, lon:-2.360005238066774, alt:Temple of Minerva, Bath, placename:Aquae Sulis, country:England, region:Somerset }}
