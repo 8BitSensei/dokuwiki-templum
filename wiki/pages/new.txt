@@ -1,2 +1,2 @@
 {{fields>FIELD_NAME=FIELD_VALUE}}
-====== {{fields>FIELD_NAME}} ======
+{{fields>FIELD_NAME}}
