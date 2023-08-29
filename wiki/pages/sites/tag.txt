@@ -6,7 +6,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 </WRAP>
 <WRAP 35column>
 <WRAP box centeralign right :en>
-<olmap id="olMapOne" width="250px" height="250px" lat=52.2345 lon=57.521 zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile=":sitemap.kml" geojsonfile="">
+<olmap id="olMapOne" width="250px" height="250px" lat={{$fact.lat}} lon={{$fact.long}} zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile=":sitemap.kml" geojsonfile="">
 </olmap>
 {{geotag>lat:52.2345, lon:7.521, alt: , placename: Temple 1, country: , region: }}
 <WRAP tablewidth 100
