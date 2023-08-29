@@ -6,7 +6,7 @@ An early Roman period temple set around a natural spring with an adjoining bath 
 <WRAP 35% column>
 <WRAP box centeralign right :en>
 <olmap id="olMapOne" width="250px" height="250px" lat="52.0" lon="5.1" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="">
-51.381808583925626,-2.360005238066774,60,.8,marker-green.png
+51.381808583925626,-2.360005238066774,60,.8,marker-green.png, Aquae Sulis
 </olmap>
 
 <WRAP tablewidth 100%>
