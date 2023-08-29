@@ -61,3 +61,5 @@ RUN unzip wrap.zip -d /app/www/public/lib/plugins/wrap
 RUN curl -L -o struct.zip https://codeload.github.com/cosmocode/dokuwiki-plugin-struct/legacy.zip/refs/heads/master
 RUN mkdir -p /app/www/public/lib/plugins/struct
 RUN unzip wrap.zip -d /app/www/public/lib/plugins/struct
+
+# SQLite plugin
