@@ -1,3 +1,7 @@
+~~META:
+start = 1
+end = 100
+~~
 ====== tag ======
 <WRAP>
 <WRAP 60column>
