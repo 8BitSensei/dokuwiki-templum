@@ -46,3 +46,5 @@ An early Roman period temple set around a natural spring with an adjoining bath 
   - "(1873), Corpus Inscriptionum Latinarum, in Corpus Inscriptionum Latinarum, 3, pg. 36-47, 53, 1351",
   - "Lysons, S., (1808), Reliquiae Britannico-Romanae, 1",
   - "Bart, H., (1792), Account of Antiquities discovered at Bath 1790. By Sir Henry Charles Englefield, Archaeologia, 10, pg. 325"
+
+{{geotag>lat:51.381808583925626, lon:-2.360005238066774, alt:Temple of Minerva, Bath, placename:Aquae Sulis, country:England, region:Somerset }}
