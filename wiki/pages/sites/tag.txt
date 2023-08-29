@@ -1,7 +1,4 @@
-~~META:
-start = 1
-end = 100
-~~
+{{keywords>art in the park,Sheffield,urban,street,creative}}
 ====== tag ======
 <WRAP>
 <WRAP 60column>
