@@ -1,7 +1,7 @@
 ====== Aquae Sulis ======
 <WRAP>
-<WRAP 605 column>
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non quam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+<WRAP 60% column>
+An early Roman period temple set around a natural spring with an adjoining bath complex. There is some evidence to suggest that the spring had some ritual significance prior to the Roman structure, it has also been shown that the ritual use of the site continued strongly into the 4th Century with continued deposition of coins, defixiones, and modifications to the temple itself. Aquae Sulis is unique in that it is one of the few sites we have a contempory reference to in Solinus, De Mirabilibus Mundi, Capitula XXIIII.
 </WRAP>
 <WRAP 35% column>
 <WRAP box centeralign right :en>
@@ -45,4 +45,5 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
   - "(1903), Ephemis Epigraphica, Ephemis Epigraphica, 9, pg. 994-5",
   - "Irvine, J., (1873), Notes on the Remains of the Roman Temple and Entrance Hall to Roman Baths Found at Bath in 1790, Journal of the British Archaeological Association, 29, pg. 379",
   - "(1873), Corpus Inscriptionum Latinarum, in Corpus Inscriptionum Latinarum, 3, pg. 36-47, 53, 1351",
-  - "Lysons, S., (1808), Reliquiae Britannico-Romanae, 1","Bart, H., (1792), Account of Antiquities discovered at Bath 1790. By Sir Henry Charles Englefield, Archaeologia, 10, pg. 325"
+  - "Lysons, S., (1808), Reliquiae Britannico-Romanae, 1",
+  - "Bart, H., (1792), Account of Antiquities discovered at Bath 1790. By Sir Henry Charles Englefield, Archaeologia, 10, pg. 325"
