@@ -1,5 +1,4 @@
 {{fields>START=1}}
 {{fields>END=100}}
 {{fields>PLACE=London}}
-{{fields>PLACE}}
-{{geotag>lat:52.2345, lon:7.521, alt: , placename: {{fields>PLACE}}, country: , region: }}
+{{geotag>lat:52.2345, lon:7.521}}
