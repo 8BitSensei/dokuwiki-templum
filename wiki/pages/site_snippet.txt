@@ -1,0 +1,26 @@
+====== @PAGE@ ======
+<WRAP>
+<WRAP 60% column>
+
+
+===== Bibliography =====
+
+
+</WRAP>
+<WRAP 35% column>
+<WRAP 100% box centeralign>
+<olmap id="olMapOne" width="300px" height="350px" lat="@lat" lon="@lon" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="">
+51.381808583925626,-2.360005238066774,60,.8,marker-green.png, Aquae Sulis
+</olmap>
+
+<WRAP tablewidth 100%>
+^           Information  ^^
+|**Location** |@country, @county, @address |
+|**Start** |@start | 
+|**End** |@end |
+</WRAP>
+</WRAP>
+</WRAP>
+</WRAP>
+
+{{geotag>lat:@lat, lon:@lon, alt:Temple of Minerva, Bath, placename:Aquae Sulis, country:@country, region:@county }}
