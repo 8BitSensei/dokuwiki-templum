@@ -1,28 +1,27 @@
-====== @PAGE@ ======
+====== @PAGEID@ ======
 <WRAP>
 <WRAP 60% column>
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non quam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+lorem ipsum
+
+===== Bibliography =====
+  - A reference
+
 </WRAP>
 <WRAP 35% column>
-<WRAP box centeralign right :en>
-<olmap id="olMapOne" width="250px" height="250px" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="">
+<WRAP 100% box centeralign>
+{{ :sites:site_0.jpg?400 }}
+<olmap id="olMapOne" width="300px" height="350px" lat="51.381808583925626" lon="-2.360005238066774" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="">
+51.381808583925626,-2.360005238066774,60,.8,marker-green.png, Aquae Sulis
 </olmap>
 
 <WRAP tablewidth 100%>
 ^           Information  ^^
-| **Location** | here |
-| **Coordinates** | there | 
-| **Start** | then | 
-| **End** | then |
+|**Location** | |
+|**Start** | | 
+|**End** | |
 </WRAP>
 </WRAP>
 </WRAP>
 </WRAP>
-----
-===== Bibliography =====
-  - a
-  - b
-  - c
-  - d
-  - e
-  - f
+
+{{geotag>lat:51.381808583925626, lon:-2.360005238066774, alt:, placename:, country:, region: }}
