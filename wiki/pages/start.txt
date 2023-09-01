@@ -1,2 +1,2 @@
-<olmap id="olMapOne" width="550px" height="450px" lat="50.0" lon="5.1" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="" summary="" >
+<olmap id="olMapOne" width="550px" height="450px" lat="50.0" lon="5.1" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile=":sitemap.kml" geojsonfile="" summary="" >
 </olmap>
