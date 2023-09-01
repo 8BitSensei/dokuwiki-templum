@@ -1,27 +1,5 @@
-====== @PAGEID@ ======
-<WRAP>
-<WRAP 60column>
-lorem ipsum
-
-===== Bibliography =====
-  - A reference
-
-</WRAP>
-<WRAP 35column>
-<WRAP 100box centeralign>
-{{ :sites:site_0.jpg?400 }}
-<olmap id="olMapOne" width="300px" height="350px" lat="51.381808583925626" lon="-2.360005238066774" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="">
-51.381808583925626,-2.360005238066774,60,.8,marker-green.png, Aquae Sulis
+<olmap id="olMapOne" width="550px" height="450px" lat="50.0" lon="5.1" zoom="12" controls="1" baselyr="OpenStreetMap" gpxfile="" kmlfile="" geojsonfile="" summary="" >
 </olmap>
 
-<WRAP tablewidth 100
-^           Information  ^^
-|**Location** | |
-|**Start** | | 
-|**End** | |
-</WRAP>
-</WRAP>
-</WRAP>
-</WRAP>
 
 {{geotag>lat:51.381808583925626, lon:-2.360005238066774, alt:, placename:, country:, region: }}
