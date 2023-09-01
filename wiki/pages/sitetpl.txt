@@ -1,0 +1,23 @@
+====== @@name@@ ======
+<WRAP>
+<WRAP 60% column>
+lorem ipsum
+
+===== Bibliography =====
+  - A reference
+
+</WRAP>
+<WRAP 35% column>
+<WRAP 100% box centeralign>
+{{ :sites:site_0.jpg?400 }}
+<WRAP tablewidth 100%>
+^           Information  ^^
+|**Location** |@@country@@, @@county@@, @@address@@ |
+|**Start** |@@start@@ | 
+|**End** |@@end@@ |
+</WRAP>
+</WRAP>
+</WRAP>
+</WRAP>
+
+{{geotag>lat:@@lat|0.0@@ lon:@@lon|0.0@@, alt:, placename:@@address@@, country:@@country@@, region:@@county@@ }}

@@ -7,6 +7,8 @@ COPY users.auth.php /app/www/public/conf/users.auth.php
 RUN chmod 7777 /app/www/public/conf/users.auth.php
 COPY acl.auth.php /app/www/public/conf/acl.auth.php
 RUN chmod 7777 /app/www/public/conf/acl.auth.php
+COPY mime.local.conf /app/www/public/conf/mime.local.conf
+RUN chmod 7777 /app/www/public/conf/mime.local.conf
 
 WORKDIR /app/www/public/data/gitrepo
 RUN apk add git

@@ -1,0 +1,14 @@
+<form>
+action   template sitetpl sites: :
+
+fieldset "Create Your User Page"
+textbox  "name" @
+textbox  "country" 
+textbox  "county" 
+textbox  "address" 
+textbox  "lat"=0.0 !
+textbox  "lon"=0.0 !
+textbox  "start" ! 
+textbox  "end" !
+submit
+</form>
