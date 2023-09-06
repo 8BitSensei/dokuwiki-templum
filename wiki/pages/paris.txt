@@ -1,1 +1,3 @@
+<olmap id="olMapOne" width="550px" height="450px" lat="50.0" lon="5.1" zoom="12" controls="1" baselyr="OpenStreetMap" kmlfile=":sitemap.kml" summary="" >
+</olmap>
 {{geotag>lat:48.864716, lon:2.349014, alt: start, placename: paris, country: , region: }}
