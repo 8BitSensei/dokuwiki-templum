@@ -1,0 +1,5 @@
+<olmap id="olMapOne" width="550px" height="450px" lat="50.0" lon="5.1" zoom="12" controls="1" baselyr="OpenStreetMap" kmlfile=":sitemap.kml" summary="" >
+</olmap>
+
+
+{{geotag>lat:52.2345, lon:7.521, alt: start, placename: start, country: , region: }}
