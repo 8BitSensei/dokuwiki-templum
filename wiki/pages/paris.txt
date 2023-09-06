@@ -1,1 +1,1 @@
-{{geotag>lat:52.2345, lon:7.521, alt: , placename: , country: , region: }}
+{{geotag>lat:48.864716, lon:2.349014, alt: start, placename: paris, country: , region: }}
